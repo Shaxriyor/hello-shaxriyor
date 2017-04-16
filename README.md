@@ -1,0 +1,2 @@
+# hello-shaxriyor
+Magic Shaxriyor
